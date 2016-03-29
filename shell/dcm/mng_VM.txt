@@ -1,0 +1,5 @@
+192.168.118.147 kvm_centos7_YNloc8tl 1024 8
+192.168.118.148 kvm_centos7_YNloc8tl 2048 8
+192.168.118.147 kvm_centos7_YNloc8tl 1024 8
+192.168.118.149 kvm_centos7_YNloc8tl 2048 8
+192.168.118.147 kvm_centos7_YNloc8tl 1024 8
