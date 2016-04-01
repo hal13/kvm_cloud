@@ -10,7 +10,7 @@
 
   <div class="field">
     <%= f.label :email %><br />
-    <%= f.email_field :email %>
+    <%= f.email_field :email, autofocus: true %>
   </div>
 
   <% if devise_mapping.confirmable? && resource.pending_reconfirmation? %>
@@ -33,7 +33,7 @@
   </div>
 
   <div class="actions">
-    <%= f.submit "保存する" %>
+    <%= f.submit "Update" %>
   </div>
 <% end %>
 
